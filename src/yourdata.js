@@ -79,7 +79,7 @@ export default {
   aboutParaTwo:
   "I develop and deploy flexible mobile apps and modern websites",
   aboutParaThree:
-  "Among other stuff,this is the tech that I like to work with React,Node.js,Express,SQL,MongoDB . " ,
+  "Among other stuff,this is the tech that I like to work with React,Node.js,Express,SQL,MongoDB ." ,
   
   aboutImage:
     "https://images.unsplash.com/photo-1519713958759-6254243c4a53?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
