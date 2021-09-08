@@ -67,6 +67,12 @@ export default {
       url: "https://github.com/JeelPatel07",
       
     },
+    {
+      title: "Mongodb", 
+      para:"Database",
+      imageSrc:
+      "https://i.ibb.co/tqTntwq/mongodb-atlas-google-cloud-partnership-nosql-databases-integrations-2.png",
+      },
     
   ],
 
